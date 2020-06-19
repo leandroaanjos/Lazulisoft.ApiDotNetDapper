@@ -5,6 +5,15 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazulisoft.ApiDotNetDapper.Api", "src\Lazulisoft.ApiDotNetDapper.Api\Lazulisoft.ApiDotNetDapper.Api.csproj", "{6778E0E5-8D4C-420E-BF8C-5F1FE441DABA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{1FA23CDF-AFF8-430A-BD78-4904D687B49B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		resources\Lembretes.txt = resources\Lembretes.txt
+		README.md = README.md
+		resources\Table Hero.sql = resources\Table Hero.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,0 +1,3 @@
+﻿// Packages
+Dapper.Extensions
+AutoMapper.Extensions.Microsoft.DependencyInjection
